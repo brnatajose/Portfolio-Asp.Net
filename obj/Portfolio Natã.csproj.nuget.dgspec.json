@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brnat\\source\\repos\\Portfolio-Asp.Net\\Portfolio Natã.csproj": {}
+    "D:\\GIT\\Portfolio Asp.Net\\Portfolio Natã.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brnat\\source\\repos\\Portfolio-Asp.Net\\Portfolio Natã.csproj": {
+    "D:\\GIT\\Portfolio Asp.Net\\Portfolio Natã.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brnat\\source\\repos\\Portfolio-Asp.Net\\Portfolio Natã.csproj",
+        "projectUniqueName": "D:\\GIT\\Portfolio Asp.Net\\Portfolio Natã.csproj",
         "projectName": "Portfolio Natã",
-        "projectPath": "C:\\Users\\brnat\\source\\repos\\Portfolio-Asp.Net\\Portfolio Natã.csproj",
+        "projectPath": "D:\\GIT\\Portfolio Asp.Net\\Portfolio Natã.csproj",
         "packagesPath": "C:\\Users\\brnat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brnat\\source\\repos\\Portfolio-Asp.Net\\obj\\",
+        "outputPath": "D:\\GIT\\Portfolio Asp.Net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brnat\\AppData\\Roaming\\NuGet\\NuGet.Config",

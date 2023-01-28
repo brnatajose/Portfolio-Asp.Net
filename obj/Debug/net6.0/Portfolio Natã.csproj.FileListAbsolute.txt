@@ -60,3 +60,34 @@ C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\refint\Portfolio 
 C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.pdb
 C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.genruntimeconfig.cache
 C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\ref\Portfolio Natã.dll
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\appsettings.Development.json
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\appsettings.json
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\Portfolio Natã.staticwebassets.runtime.json
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\Portfolio Natã.exe
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\Portfolio Natã.deps.json
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\Portfolio Natã.runtimeconfig.json
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\Portfolio Natã.dll
+D:\GIT\Portfolio Asp.Net\bin\Debug\net6.0\Portfolio Natã.pdb
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.csproj.AssemblyReference.cache
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.AssemblyInfoInputs.cache
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.AssemblyInfo.cs
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.csproj.CoreCompileInputs.cache
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.RazorAssemblyInfo.cache
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.RazorAssemblyInfo.cs
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.Portfolio Natã.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.build.Portfolio Natã.props
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio Natã.props
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portfolio Natã.props
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\staticwebassets.build.json
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\staticwebassets.development.json
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\scopedcss\bundle\Portfolio Natã.styles.css
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\scopedcss\projectbundle\Portfolio Natã.bundle.scp.css
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.dll
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\refint\Portfolio Natã.dll
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.pdb
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\Portfolio Natã.genruntimeconfig.cache
+D:\GIT\Portfolio Asp.Net\obj\Debug\net6.0\ref\Portfolio Natã.dll

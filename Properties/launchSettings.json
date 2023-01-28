@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:10378",
-      "sslPort": 44370
+      "applicationUrl": "http://localhost:15440",
+      "sslPort": 44376
     }
   },
   "profiles": {
-    "Portfolio_Natã": {
+    "Portfolio_Natã_Morais": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7250;http://localhost:5065",
+      "applicationUrl": "https://localhost:7000;http://localhost:5274",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

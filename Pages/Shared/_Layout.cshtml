@@ -1,13 +1,13 @@
 ﻿@{
-    ViewData["Ano"] = DateTime.Now;
+    ViewData["Ano"] = DateTime.Now.ToString("yyyy");
 }
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Portfolio_Natã</title>
+    <title>@ViewData["Title"] - Natã Morais - Desenvolvedor .NET</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
@@ -16,9 +16,7 @@
 </head>
 
 <body>
-    <div class="load"> <i class="fa fa-cog fa-spin fa-5x fa-fw"></i><span class="sr-only">Loading...</span> </div>
-
-    <header class="conteudo" hidden>
+    <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">Portfolio_Natã</a>
@@ -26,10 +24,10 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex jfdsfsdustify-content-between">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacidade">Privacidade</a>
                         </li>
                     </ul>
                 </div>
@@ -44,7 +42,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; @ViewData["Ano"] - Portfolio Natã - <a asp-area="" asp-page="/Privacy">Privacidade</a>
+            &copy; @ViewData["Ano"] - Desenvolvido por Natã José Ferreira de Morais - <a asp-area="" asp-page="/Privacidade">Privacidade</a>
         </div>
     </footer>
 
