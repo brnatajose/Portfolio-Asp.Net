@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Portfolio_Natã
 build_property.RootNamespace = Portfolio_Natã
-build_property.ProjectDir = C:\Users\brnat\Source\Repos\Portfolio-Asp.Net\
+build_property.ProjectDir = C:\Users\brnat\source\repos\Portfolio-Asp.Net\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\brnat\Source\Repos\Portfolio-Asp.Net
+build_property.MSBuildProjectDirectory = C:\Users\brnat\source\repos\Portfolio-Asp.Net
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/brnat/source/repos/Portfolio-Asp.Net/Pages/Error.cshtml]

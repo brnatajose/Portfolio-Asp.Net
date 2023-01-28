@@ -29,3 +29,34 @@ C:\Users\brnat\Source\Repos\brnatajose\Portfolio-Asp.Net\obj\Debug\net6.0\refint
 C:\Users\brnat\Source\Repos\brnatajose\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.pdb
 C:\Users\brnat\Source\Repos\brnatajose\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.genruntimeconfig.cache
 C:\Users\brnat\Source\Repos\brnatajose\Portfolio-Asp.Net\obj\Debug\net6.0\ref\Portfolio Natã.dll
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\appsettings.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\Portfolio Natã.staticwebassets.runtime.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\Portfolio Natã.exe
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\Portfolio Natã.deps.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\Portfolio Natã.runtimeconfig.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\Portfolio Natã.dll
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\bin\Debug\net6.0\Portfolio Natã.pdb
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.csproj.AssemblyReference.cache
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.AssemblyInfoInputs.cache
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.AssemblyInfo.cs
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.csproj.CoreCompileInputs.cache
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.RazorAssemblyInfo.cache
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.RazorAssemblyInfo.cs
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.Portfolio Natã.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.build.Portfolio Natã.props
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio Natã.props
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portfolio Natã.props
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\scopedcss\bundle\Portfolio Natã.styles.css
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\scopedcss\projectbundle\Portfolio Natã.bundle.scp.css
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.dll
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\refint\Portfolio Natã.dll
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.pdb
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\Portfolio Natã.genruntimeconfig.cache
+C:\Users\brnat\source\repos\Portfolio-Asp.Net\obj\Debug\net6.0\ref\Portfolio Natã.dll

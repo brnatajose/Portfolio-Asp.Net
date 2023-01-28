@@ -16,3 +16,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+.load {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    color: black;
+}
